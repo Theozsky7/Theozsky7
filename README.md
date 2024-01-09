@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning Node.js and planning to follow with Typescript
 - 💞️ I’m looking to collaborate on any small project that involves practising coding in plain Javascript for now.
-- 📫 How to reach me ...
+- 📫 How to reach me => email@ luca.dumitrescu1@gmail.com
 - 😄 Pronouns: Him/Mr.
 - ⚡ Fun fact: I'm somewhat older, meaning 37 yo. Haha!
 
